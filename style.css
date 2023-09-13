@@ -1,0 +1,38 @@
+body{max-width:1300px ;
+margin: 0 auto;
+box-sizing: border-box;
+padding:15px;}
+
+
+#txt{text-align: center;
+font-size: 27px; font-family: Georgia, 'Times New Roman', Times, serif ;
+border: solid 2px #959595; background: linear-gradient(0.25turn,#dcd3c9,#dedcde)
+}
+p{font-family: 'Times New Roman', Times, serif;
+padding-left:20px ;}
+
+#title{font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    text-align: center ;}
+
+#capas{padding-left:20px ;}
+#img-div{text-align: center;}
+#img-caption{font-weight: bolder;
+font-size: 20px;
+font-family: monospace;}
+.caixa{
+position: relative;
+height: 200px;
+width:1300px;
+background-color:grey;
+max-width: 1000;
+border-radius: 10px 20px;
+}
+
+#logo {position: relative;
+float:right
+}
+#linkedin{
+position: relative;
+float: right
+;}
